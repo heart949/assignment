@@ -1,0 +1,10 @@
+D:\CSharp\assignment_calculator\assignment_calculator\obj\Debug\assignment_calculator.csproj.AssemblyReference.cache
+D:\CSharp\assignment_calculator\assignment_calculator\obj\Debug\CalculatorApp.CalculatorForm.resources
+D:\CSharp\assignment_calculator\assignment_calculator\obj\Debug\assignment_calculator.Properties.Resources.resources
+D:\CSharp\assignment_calculator\assignment_calculator\obj\Debug\assignment_calculator.csproj.GenerateResource.cache
+D:\CSharp\assignment_calculator\assignment_calculator\obj\Debug\assignment_calculator.csproj.CoreCompileInputs.cache
+D:\CSharp\assignment_calculator\assignment_calculator\bin\Debug\assignment_calculator.exe.config
+D:\CSharp\assignment_calculator\assignment_calculator\bin\Debug\assignment_calculator.exe
+D:\CSharp\assignment_calculator\assignment_calculator\bin\Debug\assignment_calculator.pdb
+D:\CSharp\assignment_calculator\assignment_calculator\obj\Debug\assignment_calculator.exe
+D:\CSharp\assignment_calculator\assignment_calculator\obj\Debug\assignment_calculator.pdb
